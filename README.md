@@ -12,8 +12,8 @@ Credit Apple!
  
 2.  Open `Command Line EFI Mounter.app`
 (Follow every steps
-Entrer the number of the EFI Partition follow by[ENTER] 
+Enter the number of the EFI Partition follow by[ENTER] 
 
-(Exemple for disk0s1, entrer '0s1 '):
+(Exemple for disk0s1, enter '0s1 '):
 
 and so on. . .` ).
