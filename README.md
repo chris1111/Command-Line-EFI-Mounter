@@ -1,7 +1,10 @@
 # Command-Line-EFI-Mounter
+
 This is a simple app that helps you to mount any EFI partition
-Inside Mac OS X. 
+Inside Mac OS X.
+
 Command Line EFI Mounter.
+
 Working for Mac OS X 10.9 to 10.12
   
 Credit Apple!
@@ -12,7 +15,9 @@ Credit Apple!
  
 2.  Open `Command Line EFI Mounter.app`
 (Follow every steps
-Enter the number of the EFI Partition follow by[ENTER] 
+
+Enter the number of the EFI Partition follow by[ENTER]
+
 (Exemple for disk0s1, enter '0s1 '):
 
 and so on. . .` ).
