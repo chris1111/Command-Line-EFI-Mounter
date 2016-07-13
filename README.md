@@ -17,6 +17,6 @@ Credit Apple!
 Entrer the number of the EFI Partition follow by[ENTER] 
 (Exemple for disk0s1, entrer '0s1 '):
 
-(Exemple for disk1s1, entrer '1s1 '):
+(Exemple for disk1s1, entrer '1s1 ')
 
 and so on. . .` ).
