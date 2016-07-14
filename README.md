@@ -13,7 +13,10 @@ Credit Apple!
 
 1.  Download the Command-Line-EFI-Mounter.
  
-2.  Open `Command Line EFI Mounter.app`
+2.  Unzip `Command Line EFI Mounter.app.zip
+
+3.  Open `Command Line EFI Mounter.app`
+
 (Follow every steps
 
 Enter the number of the EFI Partition follow by[ENTER]
