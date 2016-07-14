@@ -24,3 +24,5 @@ Enter the number of the EFI Partition follow by[ENTER]
 (Exemple for disk0s1, enter '0s1 '):
 
 and so on. . .` ).
+
+[![Modular Image Creation](http://img15.hostingpics.net/pics/1228471900.png)]
