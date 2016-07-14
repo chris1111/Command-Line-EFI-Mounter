@@ -36,7 +36,7 @@ echo " "
 echo "Command Line EFI Mounter"
 ./Scripts/CommandLineEFIMounter.sh
 echo " "
-echo "`tput setaf 7``tput sgr0``tput bold``tput setaf 26`EFI Success Mounted!`tput sgr0` `tput setaf 7``tput sgr0`"
+echo "`tput setaf 7``tput sgr0``tput bold``tput setaf 26`EFI Succeed Mounted!`tput sgr0` `tput setaf 7``tput sgr0`"
 echo " "
 }
 function Quit
