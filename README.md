@@ -5,7 +5,7 @@ Inside Mac OS X.
 
 Command Line EFI Mounter.
 
-Working for Mac OS X 10.9 to 10.12
+# Working for Mac OS X 10.9 to 10.12
   
 Credit Apple!
 
