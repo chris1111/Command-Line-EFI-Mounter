@@ -25,4 +25,6 @@ Enter the number of the EFI Partition follow by[ENTER]
 
 and so on. . .` ).
 
-[![Modular Image Creation](http://img15.hostingpics.net/pics/1228471900.png)]
+Follow every steps in the Video
+
+[![Modular Image Creation](http://img11.hostingpics.net/pics/701453AutomatorApplet.png)](https://www.youtube.com/watch?v=yC6xfIj_mec)
