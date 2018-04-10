@@ -3,7 +3,7 @@
 ### This is a simple app that helps you to mount any EFI partition Inside Mac OS X.
 
 
-## Working for Mac OS X 10.9 to 10.12
+## Working for Mac OS X 10.9 to 10.13
   
 Credit Apple!
 
