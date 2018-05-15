@@ -34,7 +34,7 @@ function COMMAND_LINE_EFI_MOUNTER
 head
 echo " "
 echo "Command Line EFI Mounter"
-./Scripts/CommandLineEFIMounter.sh
+./CommandLineEFIMounter.sh
 echo " "
 echo "`tput setaf 7``tput sgr0``tput bold``tput setaf 26`EFI Succeed Mounted!`tput sgr0` `tput setaf 7``tput sgr0`"
 echo " "

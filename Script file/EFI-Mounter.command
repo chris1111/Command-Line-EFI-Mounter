@@ -1,5 +1,7 @@
-# Command Line EFI Mounter
-# (c) Copyright 2016 chris1111 
+# Command Line EFI APFS Mounter
+# (c) Copyright 2017 chris1111 
+# Copyright (c) 2016 CorpNewt Credit: for MountEFI
+#
 PARENTDIR=$(dirname "$0")
 cd "$PARENTDIR"
 defaults write com.apple.terminal "Default Window Settings" "Pro"
@@ -36,5 +38,5 @@ done
 PUT 10 12                                           
 echo -e ""                                        
 NORM
-printf '\e[8;39;81t'
-./Scripts/Main.sh
+printf '\e[8;30;80t'
+./Main.sh
