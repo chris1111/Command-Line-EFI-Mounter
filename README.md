@@ -1,13 +1,11 @@
 # Command Line EFI Mounter
 
 ### This is a simple app that helps you to mount any EFI partition Inside Mac OS X.
-
+### Credit Apple!
 
 ## Working for Mac OS X 10.9 to 10.15
 - Update 20 Dec 2019  Added sudo to make it work after Apple's system update
   
-Credit Apple!
-
 ### Instructions
 
 ### Download release the Command-Line-EFI-Mounter, Follow every steps
