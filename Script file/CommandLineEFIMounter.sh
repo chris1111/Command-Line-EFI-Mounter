@@ -16,7 +16,7 @@ REPO=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 
 echo "———————————————————————————————————————————————————————————————————————————————"
 
-diskutil list 
+sudo diskutil list 
 
 echo "———————————————————————————————————————————————————————————————————————————————"
 printf "Enter the Number of the partition follow by [ENTER]. (Exemple) ${RED}disk1s1${OFF}"
@@ -27,7 +27,7 @@ echo "                 ===== The choose Partition Will be Mounted! ====="
 echo "———————————————————————————————————————————————————————————————————————————————"
 
 read -p ": " target
-diskutil mount ${target}
+sudo diskutil mount ${target}
 
 
 echo "———————————————————————————————————————————————————————————————————————————————"
