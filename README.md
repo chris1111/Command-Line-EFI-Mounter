@@ -11,7 +11,7 @@
 ### Download release the Command-Line-EFI-Mounter, Follow every steps
 
 
-Download Release V4 [➤ Command Line EFI Mounter ](https://github.com/chris1111/Command-Line-EFI-Mounter/releases/tag/V4)
+Download Release [➤ Command Line EFI Mounter ](https://github.com/chris1111/Command-Line-EFI-Mounter/releases/tag/V1)
 
 ### Follow every steps in the (Video)
 
